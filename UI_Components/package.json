@@ -1,0 +1,16 @@
+{
+  "name": "ui_components",
+  "version": "1.0.0",
+  "description": "federated ui components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arjun",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
